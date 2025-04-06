@@ -1,11 +1,15 @@
-# web-scraper
+# 🕷️ Web Scraping Blog Titles
 
-# Web Scraping Script
+This is a simple Python script that scrapes blog post titles and links from [Scrapinghub's blog](https://blog.scrapinghub.com) using `requests` and `BeautifulSoup`. The scraped data is saved to a CSV file.
 
-A simple Python script that scrapes blog titles and links from a website using `requests` and `BeautifulSoup`. Outputs to CSV.
+---
 
-## How to Run
+## 🚀 Features
 
-```bash
-pip install -r requirements.txt
-python web_scraping_script.py
+- Scrapes blog titles and their links
+- Outputs results to `blog_titles.csv`
+- Easy to modify for any website with similar structure
+
+
+
+
