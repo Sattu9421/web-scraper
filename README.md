@@ -15,4 +15,9 @@ This is a simple Python script that scrapes blog post titles and links from [Scr
 ```bash
 pip install -r requirements.txt
 
+## 🙋 Author
+
+**Satyajit Pathak**  
+🔗 [GitHub Profile](https://github.com/Sattu9421)  
+📧 satyajitpathak9421@gamil.com
 
