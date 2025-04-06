@@ -10,6 +10,9 @@ This is a simple Python script that scrapes blog post titles and links from [Scr
 - Outputs results to `blog_titles.csv`
 - Easy to modify for any website with similar structure
 
+## 🛠 Requirements
 
+```bash
+pip install -r requirements.txt
 
 
